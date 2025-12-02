@@ -5,7 +5,7 @@ Sistem Manajemen Stok Barang berbasis web dengan PHP, MySQL, dan Bootstrap.
 ## Anggota Kelompok 1
 1. ERGI ADITYA (701230021)
 2. KHURUL NAINI IKLIMA (701230021)
-3. ADHITYA APRILIANDI (7001230073)
+3. ADHITYA APRILIANDI (7001230023)
 
 ## Fitur Utama
 
